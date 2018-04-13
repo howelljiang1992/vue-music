@@ -1,7 +1,26 @@
 # vue-music
 
 > 自己动手写一个Vue.js 高级实战——音乐 App ，
- 可以媲美原生的App
+ 手写让您惊叫的高质量 ,完全符合生产环境代码, 可以媲美原生的App.
+ 
+ 项目完整，功能完备，UI美观，交互一流
+ 
+ 实现可以在其它项目中复用的13个基础组件、15个业务组件
+
+## 学会能直接用在工作中的组件
+13个基础组件
+1.confirm：确认对话框组件
+8.search-box：搜索框组件
+2.listview：通讯录列表组件
+9.search-list：搜索列表组件
+3.loading：加载态组件10.slider：轮播图组件4.no-result：无结果展示组件11.switches：开关切换组件5.progress-bar：进度条组件12.top-tip：顶部消息提示组件6.progress-circle：圆形进度条组件13. song-list：歌曲列表组件7.scroll：移动端滚动组件基础组件
+
+
+15个业务组件
+## 项目预览地址
+
+http://ustbhuangyi.com/music/
+
 ## 项目树
 ```
 .
